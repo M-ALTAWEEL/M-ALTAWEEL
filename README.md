@@ -60,8 +60,6 @@ A Streamlit app that merges the World Happiness Report with global health data t
 - Random Forest regression with an interactive predictor.
 - Explainable AI with **SHAP**, exploratory analysis, and **K-Means + PCA** country clustering.
 
-### 🧪 [AI-Augmented Software Engineering](https://github.com/M-ALTAWEEL/AI-Augmented-Software-Engineering)
-Weekly work for the AI-Augmented Software Engineering course at İstinye University, including spec-driven development and MCP, with contributions back to the course repository.
 
 ---
 
